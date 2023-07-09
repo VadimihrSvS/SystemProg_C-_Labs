@@ -1,0 +1,7 @@
+LIBRARY 
+EXPORTS
+Fun91 = ?Fun91@@YAHHH@Z 
+Fun92 = ?Fun92@@YGMMM@Z 
+Fun93 = ?Fun93@@YAXNPAN@Z
+GetDllCalls = ?GetDllCalls@@YAHXZ
+GetFuncCalls = ?GetFuncCalls@@YAHXZ
